@@ -12,33 +12,40 @@ This project presents an **interactive dashboard** visualizing key metrics from 
 - **Tool Used**: Power BI  
 - **Purpose**: To analyze customer behavior and transaction trends in the banking system for improved decision-making.
 
+- <img width="1919" height="1079" alt="Screenshot 2025-07-12 013313" src="https://github.com/user-attachments/assets/fd44a0d7-f69e-4c05-a27f-e53524587804" />
+
+
 ---
 
 ## 📊 Dashboard Visualizations
 
 ### 🔟 Top 10 Customers by Number of Transactions
-![Top 10 by Transactions](Screenshot%202025-07-12%20012856.png)
+![Top 10 by Transactions](<img width="398" height="337" alt="Screenshot 2025-07-12 012823" src="https://github.com/user-attachments/assets/515b71ad-0832-4840-9d22-6a843f6a4cc7" />
+)
 - **Tonya** leads with **292 transactions**, followed by **Susan (282)** and **Tiffany (230)**.
 - Useful to identify high-engagement customers for loyalty programs.
 
 ---
 
 ### 💸 Top 10 Customers by Amount Spent
-![Top 10 by Amount Spent](Screenshot%202025-07-12%20012850.png)
+![Top 10 by Amount Spent](<img width="402" height="315" alt="Screenshot 2025-07-12 012837" src="https://github.com/user-attachments/assets/285bc0a0-b81e-4fd6-8ef9-356ead8f6460" />
+)
 - **Susan** is the top spender with **50K**, followed by **Tyler (42K)** and **Tim (40K)**.
 - Helps in targeting premium banking offers.
 
 ---
 
 ### 🔁 Distribution by Status
-![Distribution by Status](Screenshot%202025-07-12%20012843.png)
+![Distribution by Status](<img width="303" height="325" alt="Screenshot 2025-07-12 012830" src="https://github.com/user-attachments/assets/4597e49d-8ec0-4f8e-82d4-62b05eefa935" />
+)
 - **64.08%** transactions are **Posted**, and **35.92%** are **Authorized**.
 - Indicates how much is finalized vs. still pending approval.
 
 ---
 
 ### 💳 Distribution by Movement (Credit/Debit)
-![Distribution by Movement](Screenshot%202025-07-12%20012837.png)
+![Distribution by Movement](<img width="303" height="325" alt="Screenshot 2025-07-12 012830" src="https://github.com/user-attachments/assets/1a3375ad-6c6d-4a57-bcad-31c6a19c022c" />
+)
 - **Credit transactions** dominate at **92.67%**, compared to **7.33% debit**.
 - Insight into customer transaction types — credit-heavy usage implies bill payments or income inflow.
 
