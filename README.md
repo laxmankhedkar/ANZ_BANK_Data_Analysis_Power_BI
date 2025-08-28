@@ -9,7 +9,7 @@ This project presents an **interactive dashboard** visualizing key metrics from 
 
 - **Total Balance**: 💰 177.08M  
 - **Total Customers**: 👥 12.04K  
-- **Tool Used**: Power BI  
+- **Tool Used**: Power BI   
 - **Purpose**: To analyze customer behavior and transaction trends in the banking system for improved decision-making.
 
 - <img width="1919" height="1079" alt="Screenshot 2025-07-12 013313" src="https://github.com/user-attachments/assets/fd44a0d7-f69e-4c05-a27f-e53524587804" />
