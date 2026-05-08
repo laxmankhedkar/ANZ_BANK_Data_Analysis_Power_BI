@@ -1,6 +1,6 @@
  
 # 🏦 Bank Data Analysis Dashboard 📊
-
+ 
 This project presents an **interactive dashboard** visualizing key metrics from a bank's customer transaction dataset. The dashboard is designed in **Power BI** and aims to uncover insights such as top customers, transaction patterns, movement types, gender distribution, and more.
 
 ---
